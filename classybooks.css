@@ -1,0 +1,15 @@
+/** @format */
+
+.book {
+  width: 150px;
+  height: 200px;
+  border: 1px solid grey;
+  border-right: 6px solid brown;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin: 5px;
+}
+
+.wrapper {
+  display: flex;
+}
